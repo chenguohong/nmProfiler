@@ -18,6 +18,7 @@ Easy-Monitor github 地址：https://github.com/hyj1991/easy-monitor/
 2. nmProfiler 包括profiler和tcp客户端
 
 当前项目即为nmProfiler部分。
+Node-Monitor地址：https://github.com/chenguohong/node-monitor
 
 ### 部署
 在需要监控分析的项目中引入nmProfiler，并设置tcp服务器的端口，如：
