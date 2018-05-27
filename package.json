@@ -1,0 +1,23 @@
+{
+  "name": "nmProfiler",
+  "version": "1.0.0",
+  "description": "a node.js performance analysis tool",
+  "main": "index.js",
+  "author": "joeyChen",
+  "license": "ISC",
+  "files": [
+    "src_logic",
+    "dispatch.js",
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "dependencies": {
+    "JSONStream": "^1.3.1",
+    "co": "^4.6.0",
+    "colors": "^1.1.2",
+    "lodash": "^4.17.4",
+    "pretty-bytes": "^4.0.2",
+    "v8-profiler": "^5.7.0"
+  }
+}
