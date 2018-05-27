@@ -20,6 +20,7 @@ Easy-Monitor github 地址：https://github.com/hyj1991/easy-monitor/
 
 ### 部署
 在需要监控分析的项目中引入nmProfiler，并设置tcp服务器的端口，如：
+
 const nmProfiler = require('nmProfiler');
 
 nmProfiler({
