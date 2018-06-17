@@ -1,4 +1,4 @@
-# nmProfiler 1.0
+# nmProfiler 1.0.1
 
 ## I. 简介
 首先感谢Easy-Monitor项目，这个项目是在Easy-Monitor基础上，将其按实际需要分解成更适合部署的两个项目。
@@ -23,7 +23,7 @@ Node-Monitor地址：https://github.com/chenguohong/node-monitor
 ### 部署
 在需要监控分析的项目中引入nmProfiler，并设置tcp服务器的端口，如：
 
-const nmProfiler = require('nmProfiler');
+const nmProfiler = require('node-monitor-profiler');
 
 nmProfiler({
 
