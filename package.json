@@ -1,10 +1,14 @@
 {
-  "name": "nmProfiler",
-  "version": "1.0.0",
-  "description": "a node.js performance analysis tool",
+  "name": "node_monitor_profiler",
+  "version": "1.0.1",
+  "description": "a node.js performance analysis tool for node-monitor",
   "main": "index.js",
   "author": "joeyChen",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chenguohong/nmProfiler.git"
+  },
   "files": [
     "src_logic",
     "dispatch.js",
