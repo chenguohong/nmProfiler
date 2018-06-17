@@ -23,7 +23,7 @@ Node-Monitor地址：https://github.com/chenguohong/node-monitor
 ### 部署
 在需要监控分析的项目中引入nmProfiler，并设置tcp服务器的端口，如：
 
-const nmProfiler = require('node-monitor-profiler');
+const nmProfiler = require('node_monitor_profiler');
 
 nmProfiler({
 
