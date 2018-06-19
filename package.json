@@ -22,6 +22,6 @@
     "colors": "^1.1.2",
     "lodash": "^4.17.4",
     "pretty-bytes": "^4.0.2",
-    "v8-profiler": "^5.7.0"
+    "v8-profiler-node8": "^5.7.8"
   }
 }
